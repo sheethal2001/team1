@@ -1,2 +1,6 @@
-#benisha create sub
-#hannah create add
+def sub():
+    a=100
+    b=20
+    c=a-b
+    print(c)
+sub()
